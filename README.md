@@ -3,7 +3,7 @@
 Tegami is a free open source fluid hybrid HTML email template. It works perfectly on the majority of email clients including Android 4.4 and Gmail. 
 
 # Author
-I'm Chris a freelance web designer and developer based in Hertfordshire.
+[The Lonely Pixel](http://thelonelypixel.co.uk) is a freelance web designer and developer based in Hertfordshire.
 
 Copyright (C) 2016 Chris Robinson
 
